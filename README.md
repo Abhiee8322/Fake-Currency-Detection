@@ -23,7 +23,7 @@ This currency detection currently works only for Indian Currency notes of denomi
 4. **controller.ipynb:** This notebook is the main notebook which takes the input, runs all necessary notebooks and displays the output.
 6. **gui_1.ipynb:** This notebook produces a GUI to take the input data from the user.
 7. **gui_2.ipynb:** This notebook produces a GUI to display the result.
-8. **CV video submission:** Video containing the report and code explaantion with live testing of 2 500 fake denominations.
+
 
 ## Working
 
